@@ -8,9 +8,9 @@ Library to load, augment and different dataset formats for use in machine learni
 
 Storage Library allows loading and augmentation in various data formats. It even allows to generate `Tensorflow` Tf-Records and load them (coming soon (TM)).
 
-Simply install using (distribution via PyPi is planned):
-
 ```bash
+pip3 install bp-storage
+# or install locally from source
 pip3 install .
 ```
 
