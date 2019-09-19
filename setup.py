@@ -12,9 +12,9 @@ from setuptools import find_packages
 
 
 __status__      = "Package"
-__copyright__   = "Copyright 2018, BrainPlug"
+__copyright__   = "Copyright 2019, BrainPlug"
 __license__     = "MIT License"
-__version__     = "1.0.0"
+__version__     = "1.0.1"
 
 # 01101100 00110000 00110000 01110000
 __author__      = "Felix Geilert"
